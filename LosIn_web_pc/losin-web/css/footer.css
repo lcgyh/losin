@@ -1,0 +1,51 @@
+.newfooter {
+	padding: 90px 0 70px;
+	background: #1b1b1b
+}
+.nf-wrapper {
+	width: 80%;
+	min-width: 1018px;
+	height: auto;
+	margin: 0 auto;
+	font-size: 14px
+}
+
+.nf-wrapper>dl {
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: flex-start
+}
+
+.nf-wrapper>dl>dt,.nf-wrapper>dl>dd {
+	height: auto
+}
+
+.nf-wrapper>dl>dt.left {
+	width: 100%;
+	text-align: center;
+}
+.nf-wrapper>dl>dt.left .login_title{
+	font-size: 48px;
+	color: #fff;
+}
+.nf-wrapper>dl>dt.left .es-font{
+	font-size: 16px;
+	margin-top: 15px;
+	color: #fff;
+}
+.nf-copyright {
+	margin-top: 40px;
+	padding-top: 45px;
+	text-align: center;
+	color: #a0a0a0
+}
+
+.nf-copyright>p {
+	line-height: 26px
+}
+
+.nf-copyright a {
+	padding-left: 2px;
+	color: #a0a0a0
+}
